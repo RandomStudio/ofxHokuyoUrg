@@ -1,5 +1,6 @@
 #pragma once
 
+#include "ofMain.h"
 #include "Urg_Driver.h"
 
 #define OFX_URG_BEGIN_NAMESPACE namespace ofx { namespace Urg {

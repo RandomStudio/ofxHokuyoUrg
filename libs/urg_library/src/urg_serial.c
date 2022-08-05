@@ -23,6 +23,7 @@ enum {
 #endif
 
 
+
 // ‰üs‚©‚Ç‚¤‚©‚Ì”»’è
 static int is_linefeed(const char ch)
 {
